@@ -52,5 +52,5 @@ print("---------------------------------------------------------------")
 
 
 ## Result :
-The correlation and regression for data analysis of objects from feeder using probability distrubution are calculated.
+The average number of material in the sysytem and in the conveyor and waiting time are succesfully found.
 
