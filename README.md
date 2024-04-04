@@ -52,4 +52,5 @@ print("---------------------------------------------------------------")
 
 
 ## Result :
+The correlation and regression for data analysis of objects from feeder using probability distrubution are calculated.
 
