@@ -15,6 +15,11 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Procedure :
 
 ![imAGE](2.png) 
+## Experiment:
+![image](https://github.com/Munimadhuriganji/Single-server-infinite-capacity---Markov-Model/assets/138849444/fa545038-9add-4602-8621-d7b631c7328d)
+
+![image](https://github.com/Munimadhuriganji/Single-server-infinite-capacity---Markov-Model/assets/138849444/ee343c72-a710-4db5-bf3a-aeb549d5e0ee)
+
 ## Program
 ```
 Name: GANJI MUNI MADHURI
